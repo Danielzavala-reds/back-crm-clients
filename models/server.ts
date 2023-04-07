@@ -5,6 +5,7 @@ import cors from 'cors';
 import db from '../db/conecction';
 
 
+
 class Server {
 
     private app: Application;
