@@ -1,0 +1,1 @@
+{"version":3,"file":"conecction.js","sourceRoot":"","sources":["../../db/conecction.ts"],"names":[],"mappings":";;AAAA,yCAAsC;AAEtC,MAAM,EAAE,GAAG,IAAI,qBAAS,CAAC,KAAK,EAAE,MAAM,EAAE,QAAQ,EAAC;IAE7C,IAAI,EAAE,WAAW;IACjB,OAAO,EAAE,OAAO;IAChB,kBAAkB;CAGrB,CAAC,CAAC;AAEH,kBAAe,EAAE,CAAC"}
